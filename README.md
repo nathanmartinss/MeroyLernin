@@ -6,6 +6,7 @@ Versão: 2.0
 
 Status do Projeto: ✔️
 
+
 Tópicos
 
 🔹 Descrição do projeto
@@ -18,8 +19,10 @@ Tópicos
 
 🔹 Desenvolvedores/Contribuintes
 
+
 Descrição do projeto
 O nosso projeto foi pensado na gestão de uma loja de material de construção, que o funcionário pode logar com isso ele pode gerenciar fornecedores, usuários, fazer uma nova compra e adicionar um novo produto.
+
 
 Funcionalidades ⚙️
 
@@ -29,16 +32,20 @@ Funcionalidades ⚙️
 
 ✔️ Nova Compra e Novo Produto
 
+
 Linguagens, dependencias e libs utilizadas 📚
 
 Java, NetBeans e MySQL
+
 
 Resolvendo Problemas
 
 O projeto não roda com imagens.
 
+
 Desenvolvedores/Contribuintes:
 
 Caue, Ciano, Ronaldo e Nathan
+
 
 Copyright ©️ 2023 - Ciano e Amigos

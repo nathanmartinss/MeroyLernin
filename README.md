@@ -4,7 +4,7 @@ Meroy Lernin
 
 Versão: 2.0
 
-Status do Projeto: ✔️
+Status do Projeto: ✔️ Concluido
 
 
 Tópicos
